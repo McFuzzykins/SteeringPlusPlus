@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "KillerWave complete files",
+"productVersion": "0.1",
+"dataUrl": "Steering++ Build.data.unityweb",
+"wasmCodeUrl": "Steering++ Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Steering++ Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
